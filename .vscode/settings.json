@@ -1,0 +1,26 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#3be7f7",
+    "activityBar.foreground": "#9b0055",
+    "activityBar.inactiveForeground": "#f46703",
+    "titleBar.activeBackground": "#14c4a7",
+    "titleBar.activeForeground": "#675d27",
+    "statusBar.background": "#33f5ef",
+    "statusBar.foreground": "#294140",
+    "sideBar.background": "#0b4543",
+    "sideBar.foreground": "#7dede5"
+  }
+}
